@@ -2,8 +2,9 @@
 <h3 align="center">Cloud & DevSecOps Engineer | DevOps | Full-Stack Developer</h3>
 
 <img width="500" align="center"
-src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b"
-alt="DevSecOps Cloud Security" />
+src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif"
+alt="DevSecOps CI/CD" />
+
 
 </p>
 
