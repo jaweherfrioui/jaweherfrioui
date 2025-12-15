@@ -43,7 +43,7 @@
 
 #### ☁️ Virtualization & Cloud Computing
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vmware.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
