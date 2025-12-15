@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jaweher Frioui</h1>
 <h3 align="center">Cloud & DevSecOps Engineer | DevOps | Full-Stack Developer</h3>
 
-<p align="center">
-  <img width="480"
-       src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-       alt="Cloud DevSecOps Engineer" />
+<img width="500" align="center"
+src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b"
+alt="DevSecOps Cloud Security" />
+
 </p>
 
 ---
