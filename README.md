@@ -12,7 +12,7 @@
 ### 🔭 What I’m currently working on
 - Designing and deploying **secure CI/CD pipelines**
 - Containerized applications using **Docker & Kubernetes**
-- Integrating **security scans (SAST, container scanning)** into DevOps workflows
+- Integrating **security scans ( container scanning)** into DevOps workflows
 
 ---
 
